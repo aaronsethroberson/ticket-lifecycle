@@ -50,5 +50,5 @@ Next, John, a Help Desk Agent, logs into his account to review the ticket detail
 
 <p>Ultimately, Jane's initial assessment of the issue proved accurate. While working to resolve it, she elevated the ticket's priority to "Emergency," recognizing the potential for the problem to affect the entire business.</p>
 </br>
-<img src="https://i.ibb.co/thZDj9R/8.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/8.jpg" alt=""/>
 

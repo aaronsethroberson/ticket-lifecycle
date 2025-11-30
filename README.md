@@ -21,34 +21,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>In this example, the end user is named Karen. Karen accesses the osTicket user portal to submit a new ticket.</p>
 </br>  
-<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/1.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/images/1.jpg" alt=""/>
 </br>
 
 <p>
 Karen, an end user, is creating a ticket by filling in the required fields provided by the support center. She selects the Help Topic "Reporting a Problem" and includes a brief issue summary, noting that "the entire mobile/online banking system is down." Additionally, Karen provides a clear and detailed description of the issue impacting her employees.
 </p>
 </br>  
-<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/2.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/images/2.jpg" alt=""/>
 </br>
 
 Next, John, a Help Desk Agent, logs into his account to review the ticket details. Agents can access active tickets through the agent panel. Managers can assign high-priority tickets to the appropriate agents and apply Service Level Agreements (SLAs).</p>
 </br>
-<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/3.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/images/3.jpg" alt=""/>
 
-<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/4.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/images/4.jpg" alt=""/>
 </br>
 
 <p>After John selects the ticket, he gains access to all relevant information, such as the SLA, status, priority, and other details. However, upon realizing he lacks the necessary permissions to make changes, the ticket is reassigned to another help desk agent, Jane. Jane updates the SLA plan to **Sev-A (Severity 1)**, the highest priority level. This classification signifies a critical issue, requiring an initial response within 1 hour, status updates every 4 hours, and resolution or downgrade within 24 hours.</p>
 </br>
-<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/5.jpg" alt=""/>
-<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/6.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/images/5.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/images/6.jpg" alt=""/>
 </br>
 <p>While working on resolving the issue, Jane provides an update to share her insights on the situation and outline the steps she is taking to address it.</p>
 </br>
-<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/7.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/images/7.jpg" alt=""/>
 </br>
 
 <p>Ultimately, Jane's initial assessment of the issue proved accurate. While working to resolve it, she elevated the ticket's priority to "Emergency," recognizing the potential for the problem to affect the entire business.</p>
 </br>
-<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/8.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/ticket-lifecycle/blob/main/images/8.jpg" alt=""/>
 
